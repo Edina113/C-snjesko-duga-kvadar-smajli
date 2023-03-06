@@ -1,0 +1,34 @@
+C:\Users\bossi\Desktop\zad3\zad3\bin\Debug\net6.0-windows\zad3.exe
+C:\Users\bossi\Desktop\zad3\zad3\bin\Debug\net6.0-windows\zad3.deps.json
+C:\Users\bossi\Desktop\zad3\zad3\bin\Debug\net6.0-windows\zad3.runtimeconfig.json
+C:\Users\bossi\Desktop\zad3\zad3\bin\Debug\net6.0-windows\zad3.dll
+C:\Users\bossi\Desktop\zad3\zad3\bin\Debug\net6.0-windows\zad3.pdb
+C:\Users\bossi\Desktop\zad3\zad3\obj\Debug\net6.0-windows\zad3.csproj.AssemblyReference.cache
+C:\Users\bossi\Desktop\zad3\zad3\obj\Debug\net6.0-windows\zad3.Form1.resources
+C:\Users\bossi\Desktop\zad3\zad3\obj\Debug\net6.0-windows\zad3.csproj.GenerateResource.cache
+C:\Users\bossi\Desktop\zad3\zad3\obj\Debug\net6.0-windows\zad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bossi\Desktop\zad3\zad3\obj\Debug\net6.0-windows\zad3.AssemblyInfoInputs.cache
+C:\Users\bossi\Desktop\zad3\zad3\obj\Debug\net6.0-windows\zad3.AssemblyInfo.cs
+C:\Users\bossi\Desktop\zad3\zad3\obj\Debug\net6.0-windows\zad3.csproj.CoreCompileInputs.cache
+C:\Users\bossi\Desktop\zad3\zad3\obj\Debug\net6.0-windows\zad3.dll
+C:\Users\bossi\Desktop\zad3\zad3\obj\Debug\net6.0-windows\refint\zad3.dll
+C:\Users\bossi\Desktop\zad3\zad3\obj\Debug\net6.0-windows\zad3.pdb
+C:\Users\bossi\Desktop\zad3\zad3\obj\Debug\net6.0-windows\zad3.genruntimeconfig.cache
+C:\Users\bossi\Desktop\zad3\zad3\obj\Debug\net6.0-windows\ref\zad3.dll
+C:\Users\PC\Desktop\Programiranje zadaca\zad3\zad3\bin\Debug\net6.0-windows\zad3.exe
+C:\Users\PC\Desktop\Programiranje zadaca\zad3\zad3\bin\Debug\net6.0-windows\zad3.deps.json
+C:\Users\PC\Desktop\Programiranje zadaca\zad3\zad3\bin\Debug\net6.0-windows\zad3.runtimeconfig.json
+C:\Users\PC\Desktop\Programiranje zadaca\zad3\zad3\bin\Debug\net6.0-windows\zad3.dll
+C:\Users\PC\Desktop\Programiranje zadaca\zad3\zad3\bin\Debug\net6.0-windows\zad3.pdb
+C:\Users\PC\Desktop\Programiranje zadaca\zad3\zad3\obj\Debug\net6.0-windows\zad3.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Programiranje zadaca\zad3\zad3\obj\Debug\net6.0-windows\zad3.Form1.resources
+C:\Users\PC\Desktop\Programiranje zadaca\zad3\zad3\obj\Debug\net6.0-windows\zad3.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Programiranje zadaca\zad3\zad3\obj\Debug\net6.0-windows\zad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Programiranje zadaca\zad3\zad3\obj\Debug\net6.0-windows\zad3.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Programiranje zadaca\zad3\zad3\obj\Debug\net6.0-windows\zad3.AssemblyInfo.cs
+C:\Users\PC\Desktop\Programiranje zadaca\zad3\zad3\obj\Debug\net6.0-windows\zad3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Programiranje zadaca\zad3\zad3\obj\Debug\net6.0-windows\zad3.dll
+C:\Users\PC\Desktop\Programiranje zadaca\zad3\zad3\obj\Debug\net6.0-windows\refint\zad3.dll
+C:\Users\PC\Desktop\Programiranje zadaca\zad3\zad3\obj\Debug\net6.0-windows\zad3.pdb
+C:\Users\PC\Desktop\Programiranje zadaca\zad3\zad3\obj\Debug\net6.0-windows\zad3.genruntimeconfig.cache
+C:\Users\PC\Desktop\Programiranje zadaca\zad3\zad3\obj\Debug\net6.0-windows\ref\zad3.dll
